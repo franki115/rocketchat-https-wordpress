@@ -1,9 +1,9 @@
 === Plugin Name ===   UPDATE 23/03/2024
-Contributors: rocketchat, mbanusic
+Contributors: rocketchat, FRANKI115
 Donate link: http://rocket.chat
 Tags: rocket.chat, chat, livechat, support, sales
-Requires at least: 3.0.1
-Tested up to: 5.3
+Requires at least: 6.6.4
+Tested up to: 6.6.5
 Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
