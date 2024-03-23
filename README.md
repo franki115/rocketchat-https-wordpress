@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Plugin Name ===   UPDATE 23/03/2024
 Contributors: rocketchat, mbanusic
 Donate link: http://rocket.chat
 Tags: rocket.chat, chat, livechat, support, sales
